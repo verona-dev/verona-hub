@@ -1,5 +1,3 @@
-![Header](https://github.com/verona-hub/verona-hub/blob/main/dosomething.jpg?raw=true "Header")
-
 <img src="https://github.com/verona-hub/verona-hub/blob/main/dosomething.jpg?raw=true" width="800px" />
 
 ### Hi there 👋
