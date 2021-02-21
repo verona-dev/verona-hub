@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...Image search website
+- 🔭 I’m currently working on ...a Weather App with React
 - 🌱 I’m currently learning ...React Redux
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=verona-hub.verona-hub)
