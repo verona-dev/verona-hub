@@ -1,4 +1,4 @@
-<img src="https://github.com/verona-hub/verona-hub/blob/main/dosomething.jpg?raw=true" width="800px" />
+<img src="https://github.com/verona-hub/verona-hub/blob/main/dosomething.jpg?raw=true" width="400px" />
 
 ### Hi there 👋
 
