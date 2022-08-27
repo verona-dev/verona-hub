@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...a Weather App with React
-- 🌱 I’m currently learning ...React Redux
+- 🔭 I’m currently working on ...a Crypto App with React
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=verona-hub.verona-hub)
 
